@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone👋, I'm Lochana</h1>
-<h3 align="center">A Decerning AIDS 3rd year student and a Python web developer</h3>
+<h3 align="center">A Decerning AIDS 4th year student and a Python web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lochana14&label=Profile%20views&color=0e75b6&style=flat" alt="lochana14" /> </p>
 
